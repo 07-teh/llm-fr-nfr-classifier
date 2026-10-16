@@ -1,0 +1,21 @@
+id,requirement
+D01,The app shall let users log a meal by taking a photo and show the estimated calories.
+D02,Users can set up to 5 daily step goals.
+D03,The app shall send a reminder if the user has not logged water intake by 8 pm.
+D04,The dashboard shall load within 2 seconds on a 4G connection.
+D05,All journal entries shall be encrypted in storage.
+D06,Users can choose who can see their mood journal entries.
+D07,The app shall be easy to use for first-time users.
+D08,The app shall run on Android 12 and iOS 16 or later.
+D09,The app shall recommend nearby wellness centres based on the user's location.
+D10,Calorie estimates shall be within 10% of a verified nutrition database.
+D11,Errors shall be logged with the module name and error type.
+D12,Administrators can view error reports in a dashboard.
+D13,Activity entries made offline shall sync automatically when the connection returns.
+D14,Step counter
+D15,good UI
+D16,Users can join community wellness challenges and see a leaderboard.
+D17,The system shall comply with the Personal Data Protection Act 2010.
+D18,The app shall show a weekly mood trend chart.
+D19,The service shall be available 99.5% of the time each month.
+D20,The app shall allow users to book a session at a wellness centre and encrypt the booking details.

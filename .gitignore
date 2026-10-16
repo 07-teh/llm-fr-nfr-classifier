@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Environment / caches
+.venv/
+__pycache__/
+*.pyc
+*.lock
+.DS_Store
+
+# Generated at run time (may contain survey data or raw AI output)
+data/
+results/
+FINAL/
+logs/
